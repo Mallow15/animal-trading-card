@@ -1,0 +1,42 @@
+
+.mycard {
+  width: 310px;
+  border: 1px solid #DCDCDC;
+  box-shadow: 6px 6px 1px 0px #EBEBEB;
+  padding-right: .2em;
+  padding-left: .7em;
+  padding-bottom: .6em;
+}
+
+.details {
+
+  width: 280px;
+  border: 2px solid #DCDCDC;
+  padding-right: .5em;
+  padding-left: .5em;
+}
+
+
+.pic {
+  width: 300px;
+  height: 200px;
+  padding-bottom: .7em;
+  border-radius: 10px 50px;
+}
+
+
+.intro {
+  font-style: italic;
+}
+
+
+.mylist{
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+span {
+  font-weight: bold;
+}
+
