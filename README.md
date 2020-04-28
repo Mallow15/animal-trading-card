@@ -4,6 +4,5 @@ Udacity Project Part of Introduction to Programming
 
 # To Run
 
-1.Download the Repo
-2. Open html file in your Browser
+Download the Repo  & Open html file in your Browser
 
